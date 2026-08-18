@@ -2,6 +2,8 @@
 
 A single-file, interactive block diagram for a tethered UAV power delivery system: ground-station step-up, high-voltage tether transmission, and airborne step-down. Built as a proposal/concept aid — not a validated design tool.
 
+<img width="890" height="608" alt="Peek 2026-08-18 17-18" src="https://github.com/user-attachments/assets/43d4ce18-17bc-4819-84d4-3d69c62b8314" />
+
 ## What it shows
 
 Three stages, left to right / top to bottom:
